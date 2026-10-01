@@ -94,7 +94,7 @@ flutter doctor
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/YOUR_USERNAME/EduTask.git
+    git clone https://github.com/rayhanuftb/Yuva_Mobile-App-Development-Fresher
     ```
 
 2.  Navigate to the project directory:
